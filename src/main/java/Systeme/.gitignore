@@ -1,0 +1,38 @@
+gitignore
+Fichiers générés par l'environnement
+*.class
+*.log
+*.ctxt
+
+Répertoire target de Maven
+/target/
+
+Fichiers système
+.DS_Store
+Thumbs.db
+
+Paramètres d'environnement IDE
+*.iml
+.idea/
+*.iws
+*.ipr
+
+Fichiers NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+Fichiers de configuration OS
+*.swp
+
+Base de données ou fichiers sensibles
+*.db
+*.sqlite
+
+Dossiers cachés
+.*.sw?
+
+
